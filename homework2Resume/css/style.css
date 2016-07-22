@@ -1,0 +1,30 @@
+body {
+    font-family: "Gill Sans";
+    text-align: justify;
+}
+
+h1 {
+    font-size: 40px;
+    text-align: center;
+    margin-top: 10px;
+}
+
+h2 {
+    font-size: 18px;
+    text-align: left;
+}
+ ul {
+   margin-top: 0px; /* Отступ сверху */ 
+}
+p {
+  margin-bottom: 0px;
+}
+.grey {
+    color: lightsteelblue;
+}
+.weight {
+    font-weight: 600;  
+}
+.underline {
+    text-decoration: underline;
+  }
